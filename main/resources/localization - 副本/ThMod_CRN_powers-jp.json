@@ -1,0 +1,241 @@
+{
+	"Support": {
+    "NAME": "コール",
+    "DESCRIPTIONS": [
+      "親友を呼び込む NL ",
+      "ある程度溜まったら支援状態の得る"
+    ]
+  },
+  	"RMASupport": {
+    "NAME": "rma支援",
+    "DESCRIPTIONS": [
+      "親友rmaの支援、ターンごとに [E] を得る"
+    ]
+  },
+  	"MDCNSupport": {
+    "NAME": "mdcn支援",
+    "DESCRIPTIONS": [
+      "ランダムな敵に 毒 #b3 を与える "
+    ]
+  },
+  	"QuestPower": {
+    "NAME": "探る",
+    "DESCRIPTIONS": [
+      "ターンごとに　#yコール #b3 を得る、ランダムな親友支援を選ぶ。"
+    ]
+  },
+  	"MultipleCallsPower": {
+    "NAME": "マティコール",
+    "DESCRIPTIONS": [
+      " #コール を得る度に、カードを1枚引く。"
+    ]
+  },
+    "DIYUSISupport": {
+    "NAME": "diyusi支援",
+    "DESCRIPTIONS": [
+      "親友diyusiの支援、ターンごとにカードを #b",
+	  " 枚引く、ブロック #b",
+	  " を得る"
+    ]
+  },
+    "SIYUDISupport": {
+    "NAME": "siyudi支援",
+    "DESCRIPTIONS": [
+      "親友の妹siyudiの支援、毎ターンランダムな敵に #b8 ダメージを与える"
+    ]
+  }, 
+    "ICGSupport": {
+    "NAME": "ICG支援",
+    "DESCRIPTIONS": [
+      "親友の店長の親友ICGの支援、毎ターン敏捷性１を得る、ガバ物理を手札に加入"
+    ]
+  }, 
+    "SIKSupport": {
+    "NAME": "SIK支援",
+    "DESCRIPTIONS": [
+      "親友の友SIKの支援、斬撃系 ダメージアップ #b3 "
+    ]
+  }, 
+    "Burning": {
+    "NAME": "烧伤",
+    "DESCRIPTIONS": [
+      "受ける 斬撃系 ダメージアップ #b",
+	  " 点"
+    ]
+  },  
+    "WirelessCallingPower": {
+    "NAME": "無線電",
+    "DESCRIPTIONS": [
+      "ターンにつき #yコール 数+"
+    ]
+  },  
+    "FuryCutterPower": {
+    "NAME": "バランス崩れ",
+    "DESCRIPTIONS": [
+      " 斬撃系 を出す時、 #b",
+	  " ダメージを受ける。"
+    ]
+  },  
+    "LightningPower": {
+    "NAME": "雷",
+    "DESCRIPTIONS": [
+      "毎ターンランダムな敵に #b14 ダメージを与える。"
+    ]
+  },  
+    "FirePower": {
+    "NAME": "炎上",
+    "DESCRIPTIONS": [
+      "毎ターン全ての敵に #b6 ダメージを与え、 火傷 ２を負わせる。"
+    ]
+  }, 
+    "XuliPower": {
+    "NAME": "力溜め",
+    "DESCRIPTIONS": [
+      "次の 斬撃類 ダメージ #b8 アップ。"
+    ]
+  },  
+    "CorrosivityPower": {
+    "NAME": "放射性物質",
+    "DESCRIPTIONS": [
+      "ランダムな敵に毎ターン大量なデバフを与える。"
+    ]
+  },  
+    "KNNSupport": {
+    "NAME": "KNN支援",
+    "DESCRIPTIONS": [
+      "死にそうな場合、ダメージを免除して最大hpの #b10 %を回復し、この支援を失う。"
+    ]
+  },  
+    "BloodPower": {
+    "NAME": "流血",
+    "DESCRIPTIONS": [
+      "ターン毎にHPが失わる、 射撃系 のダメージを受ける時 #b50 %の確率で増加。"
+    ]
+  },  
+    "SharpnessPower": {
+    "NAME": "シャープ",
+    "DESCRIPTIONS": [
+      "全ての 斬撃系 ダメージは #b20 %の確率で流血を与える。"
+    ]
+  },
+    "KingdomOfWalkersPower": {
+    "NAME": "歩行者天国",
+    "DESCRIPTIONS": [
+      "毎ターンブロックを #b8 得る。"
+    ]
+  },  
+    "CyclingByBikePower": {
+    "NAME": "自転車",
+    "DESCRIPTIONS": [
+      "毎ターンカードを2枚引く。"
+    ]
+  },   
+    "MotorVehicleAttentionPower": {
+    "NAME": "自動車注意",
+    "DESCRIPTIONS": [
+      "次に受けるダメージを防ぐ。"
+    ]
+  }, 
+    "Komugiko": {
+    "NAME": "小麦粉の支援",
+    "DESCRIPTIONS": [
+      "毎ターン 緩衝 を得る。"
+    ]
+  },  
+    "Cushion": {
+    "NAME": "緩衝",
+    "DESCRIPTIONS": [
+      "次に受けるダメージは #b50 %減少する。"
+    ]
+  },  
+    "HNSSupport": {
+    "NAME": "HNS支援",
+    "DESCRIPTIONS": [
+      "親友の母HNSの支援、毎ターン筋力 #b1 を得る、全ての敵にダメージ１０を与える。"
+    ]
+  },   
+    "BrakingArmorPower": {
+    "NAME": "ブレーキ装甲",
+    "DESCRIPTIONS": [
+      "1ターン毎にコール数のブロックを獲得する。"
+    ]
+  },     
+    "QuickCallPower": {
+    "NAME": "失踪",
+    "DESCRIPTIONS": [
+      "次 #b",
+	  " ターン #r",
+      " コールを失う。"
+    ]
+  },      
+    "CallPfGunfirePower": {
+    "NAME": "銃声",
+    "DESCRIPTIONS": [
+      "2枚 射撃系 カードを出すごとに #b1 層コールを獲得する。",
+	  "2枚 射撃系 カードを出すごとに #b2 層コールを獲得する。"
+    ]
+  },   
+    "AccurationPower": {
+    "NAME": "アキュレーション",
+    "DESCRIPTIONS": [
+      " 射撃系 ダメージ #b30% アップ"
+    ]
+  },     
+    "SZPower": {
+    "NAME": "SZ支援",
+    "DESCRIPTIONS": [
+      "1ターン毎に1枚の攻撃カードを手札に加え、このカードはこのターンのコストを #b0 にする。"
+    ]
+  },     
+    "LianZhao": {
+    "NAME": "連続攻撃",
+    "DESCRIPTIONS": [
+      " 斬撃系 ダメージが #b",
+	  " %アップ、非斬撃系カードを出すと失う"
+    ]
+  },      
+    "Precise": {
+    "NAME": "精密射撃",
+    "DESCRIPTIONS": [
+      "射撃系 は #b",
+	  " %の確率で会心の一撃、三倍のダメージを与える。非射撃系を出すと或は会心の一撃で失う"
+    ]
+  },       
+    "NoDIYUSI": {
+    "NAME": "支援禁止",
+    "DESCRIPTIONS": [
+      "无法获得 #rDIYUSI支援 "
+    ]
+  },       
+    "Inparty": {
+    "NAME": "車内淫行",
+    "DESCRIPTIONS": [
+      "损失 呼叫 数的生命 "
+    ]
+  },   
+    "MilkPower": {
+    "NAME": "牛乳",
+    "DESCRIPTIONS": [
+      "次のターンでDEBUFF免除"
+    ]
+  }, 
+    "SeekPower": {
+    "NAME": "索敵",
+    "DESCRIPTIONS": [
+      "次の 射撃系 のダメージ倍増"
+    ]
+  },
+    "BeerBeerPower": {
+    "NAME": "ビール！ビール！",
+    "DESCRIPTIONS": [
+      "ブロック を得る度に、3ブロックを得る。"
+    ]
+  },
+    "WWWWWWWWWWWWWWW": {
+    "NAME": "WWWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWWWWW",
+      "WWWWWWWWWWW"
+    ]
+  }
+}

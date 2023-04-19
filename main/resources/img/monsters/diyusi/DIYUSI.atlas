@@ -1,0 +1,174 @@
+
+DIYUSI.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+シャツ Background
+  rotate: true
+  xy: 659, 121
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+スカート Background
+  rotate: false
+  xy: 2, 81
+  size: 236, 216
+  orig: 236, 216
+  offset: 0, 0
+  index: -1
+リボン Background
+  rotate: true
+  xy: 659, 225
+  size: 138, 106
+  orig: 138, 106
+  offset: 0, 0
+  index: -1
+体 Background
+  rotate: true
+  xy: 767, 214
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+口01 Background
+  rotate: false
+  xy: 450, 86
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+右太もも Background
+  rotate: false
+  xy: 345, 86
+  size: 103, 220
+  orig: 103, 220
+  offset: 0, 0
+  index: -1
+右手2 Background
+  rotate: false
+  xy: 550, 103
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+右手指 Background
+  rotate: true
+  xy: 612, 105
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+右肩 Background
+  rotate: true
+  xy: 350, 4
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+右腕 Background
+  rotate: true
+  xy: 276, 2
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+右足首 Background
+  rotate: false
+  xy: 240, 83
+  size: 103, 214
+  orig: 103, 214
+  offset: 0, 0
+  index: -1
+右靴 Background
+  rotate: false
+  xy: 550, 163
+  size: 107, 200
+  orig: 107, 200
+  offset: 0, 0
+  index: -1
+左太もも Background
+  rotate: false
+  xy: 927, 228
+  size: 62, 126
+  orig: 62, 126
+  offset: 0, 0
+  index: -1
+左手セット
+  rotate: false
+  xy: 450, 92
+  size: 98, 214
+  orig: 98, 214
+  offset: 0, 0
+  index: -1
+左足首 Background
+  rotate: true
+  xy: 472, 17
+  size: 73, 112
+  orig: 73, 112
+  offset: 0, 0
+  index: -1
+左靴 Background
+  rotate: true
+  xy: 528, 365
+  size: 145, 247
+  orig: 145, 247
+  offset: 0, 0
+  index: -1
+後ろ右髪 Background
+  rotate: true
+  xy: 767, 72
+  size: 140, 155
+  orig: 140, 155
+  offset: 0, 0
+  index: -1
+後ろ左髪 Background
+  rotate: true
+  xy: 777, 356
+  size: 154, 207
+  orig: 154, 207
+  offset: 0, 0
+  index: -1
+目01 Background
+  rotate: true
+  xy: 528, 321
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+目02 Background
+  rotate: false
+  xy: 2, 23
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+警備棒(右手) Background
+  rotate: false
+  xy: 2, 299
+  size: 299, 211
+  orig: 299, 211
+  offset: 0, 0
+  index: -1
+警備棒(左手)
+  rotate: true
+  xy: 2, 37
+  size: 42, 272
+  orig: 42, 272
+  offset: 0, 0
+  index: -1
+顔00 Background
+  rotate: false
+  xy: 303, 308
+  size: 223, 202
+  orig: 223, 202
+  offset: 0, 0
+  index: -1
+首 Background
+  rotate: false
+  xy: 586, 63
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1

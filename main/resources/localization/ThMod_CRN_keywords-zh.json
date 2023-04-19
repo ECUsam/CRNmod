@@ -1,0 +1,118 @@
+{
+  "keywords": [
+	{
+      "NAMES": [
+        "呼叫"
+      ],
+      "DESCRIPTION":"叠加到一定层数可获得 特定支援 。"
+    },
+	{
+    "NAMES": [
+        "sz支援"
+      ],
+      "DESCRIPTION": "每回合将一张攻击牌加入手牌中，这张牌在本回合耗能变为0."
+    },
+	{
+    "NAMES": [
+        "knn支援"
+      ],
+      "DESCRIPTION": "当你要被杀死时，免除这次伤害并回复最大生命值的 #b10 %。"
+    },
+	{
+    "NAMES": [
+        "烧伤"
+      ],
+      "DESCRIPTION": "受到的 斩击类 伤害提高。"
+    },
+	{
+    "NAMES": [
+        "diyusi支援"
+      ],
+      "DESCRIPTION": "每回合额外抽牌，获得 #b5 点格挡"
+    },
+	{
+    "NAMES": [
+        "特定支援"
+      ],
+      "DESCRIPTION": "有着具体效果的 支援 "
+    },
+	{
+    "NAMES": [
+        "信号不良"
+      ],
+      "DESCRIPTION": "回合结束时，减少一层 支援 "
+    },
+	{
+    "NAMES": [
+        "rma支援"
+      ],
+      "DESCRIPTION": "每回合获得 [E] "
+    },
+	{
+    "NAMES": [
+        "缓冲"
+      ],
+      "DESCRIPTION": "下一次受到的伤害减少50%。"
+    },
+	{
+    "NAMES": [
+        "sik支援"
+      ],
+      "DESCRIPTION": "斩击类伤害加3"
+    },
+	{
+    "NAMES": [
+        "hns支援"
+      ],
+      "DESCRIPTION": "每回合获得1点力量，对所有敌人造成10点伤害。"
+    },
+	{
+    "NAMES": [
+        "流血"
+      ],
+      "DESCRIPTION": "每回合损失层数生命。"
+    },
+    {
+      "NAMES": [
+        "siyudi支援"
+      ],
+      "DESCRIPTION": "每回合对随机敌人造成8点伤害"
+    },
+    {
+      "NAMES": [
+        "mdcn支援"
+      ],
+      "DESCRIPTION": "每回合对随机一名敌人施加4层中毒"
+    },
+    {
+      "NAMES": [
+        "icg支援"
+      ],
+      "DESCRIPTION": "每回合增加一点敏捷，将一张gaba物理加入手牌。"
+    },
+    {
+      "NAMES": [
+        "射击类"
+      ],
+      "DESCRIPTION": "使用枪械对敌人造成伤害。"
+    },
+    {
+      "NAMES": [
+        "斩击类"
+      ],
+      "DESCRIPTION": "使用刀剑对敌人造成伤害。"
+    },
+    {
+      "NAMES": [
+        "随机"
+      ],
+      "DESCRIPTION": "随机发动其中一项。"
+    },
+	{
+      "NAMES": [
+        "随机2"
+      ],
+      "DESCRIPTION": "随机发动其中两项。"
+    }
+  ]
+}

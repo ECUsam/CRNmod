@@ -1,0 +1,13 @@
+{
+  "modid": "CRNmod",
+  "name": "CRNmod（Cookie）",
+  "author_list": [
+    "ECUsam"
+  ],
+  "description": "Adds CRNmod（Cookie） from Cookie Project as a new playable character.",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "1.0.0",
+  "sts_version": "11-27-2022"
+}

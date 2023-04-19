@@ -1,0 +1,460 @@
+{
+  "Strike_CRN": {
+    "NAME": "ストライク",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える。"
+  },
+  "Defend_CRN": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "Shoot": {
+    "NAME": "シュート",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える。"
+  },
+  "WirelessInterference":{
+    "NAME":"無線干渉",
+    "DESCRIPTION": "敵に 脱力 !M! 、NL !M! 弱体化 を与える NL コール ２ を得る ",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "LegShot":{
+    "NAME":"牽制射撃",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える、 NL 対象の敵が純粋なアタック NL を予定していない場合、 NL 弱体化 １ を与える",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "DIYUSINoSupport":{
+    "NAME":"diyusiの支援",
+    "DESCRIPTION": " diyusi支援 １ を得る。",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "SIYUDINoSupport":{
+    "NAME":"siyudiの支援",
+    "DESCRIPTION": "siyudi支援 １ を得る、 コール １ を得る",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "Disintegration":{
+    "NAME":"決裂",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える、 NL 敵が1人だけなら1.5倍のダメージ"
+  },
+    "MoKu":{
+    "NAME":"MoKu",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える、 コール １ を得る"
+  },
+    "SwingingTraverse":{
+    "NAME":"乱射",
+    "DESCRIPTION": "射撃系 NL 敵全体に !D! ダメージを二回与える."
+  },
+    "Knifegame":{
+    "NAME":"ナイフゲーム",
+    "DESCRIPTION": "HPを３失い、 siyudi支援 !M! を得る",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "Conversation":{
+    "NAME":"会話",
+    "DESCRIPTION": " diyusi支援 のある場合のみ使用可能。 [E] [E] を得る NL 廃棄 される.",
+    "UPGRADE_DESCRIPTION": "　diyusi支援 のある場合のみ使用可能。 [E] [E] を得る.",
+	"EXTENDED_DESCRIPTION": [
+	"diyusi支援がない。",
+	""
+	]
+  },
+    "Strafing":{
+    "NAME":"連射",
+    "DESCRIPTION": "射撃系 NL !D! ダメージ !M! 回を与える",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "ThreeNiangRikyo":{
+    "NAME":"立教三人娘",
+    "DESCRIPTION": " コール ３を得る NL 廃棄 される",
+    "UPGRADE_DESCRIPTION": "天賦 NL コール ３を得る NL 廃棄 される"
+  },
+    "Rest":{
+    "NAME":"休憩中よ",
+    "DESCRIPTION": "HPを !M! 回復する、コール ２を得る NL 廃棄 される",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "TeamOfThree":{
+    "NAME":"女三人",
+    "DESCRIPTION": " diyusi支援 と rma支援 、 [E] を得る",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "SIKNoSupport":{
+    "NAME":"SIKの支援",
+    "DESCRIPTION": " sik支援 を得る",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+  },
+    "Reload":{
+    "NAME":"換弾",
+    "DESCRIPTION": "全ての手札を舎て、同量のカード＋１を引き、 NL 非攻撃のカードを舎て、残りカードのコストは０。",
+    "UPGRADE_DESCRIPTION": "全ての手札を舎て、同量のカード＋ !M! を引き、 NL 非攻撃のカードを舎て、残りカードのコストは０。"
+  },
+    "Seek":{
+    "NAME":"索敌",
+    "DESCRIPTION": "次の 射撃系 ダメージ倍増。",
+    "UPGRADE_DESCRIPTION": "次と次の次の 射撃系 ダメージ倍増。"
+  },
+    "DefensiveCounterattack":{
+    "NAME":"守り返し",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える、!B! ブロック を得る； NLこの前 ブロック がない場合、カードを1枚引く。"
+  },
+	"ThePostureOfBattle": {
+	"NAME":"戦闘姿勢",
+	"DESCRIPTION": "カードを !M! 枚引く,手札を !M! 枚捨てる。 NL 射撃系 を捨て: コール ２を得る、 斬撃系 を捨て:敵全体に 流血 ２を与える。"
+  },
+    "PoorSignal": {
+    "NAME": "電波不良",
+    "DESCRIPTION": " 使用不可 。 NL ターン終了時、 コール １を減らす。"
+  },
+    "MagneticFieldBurst": {
+    "NAME": "磁场爆发",
+    "DESCRIPTION": " 敵全体に !D! ダメージを与える、将一张 電波不良 加入手牌。"
+  },
+    "Trench": {
+    "NAME": "塹壕",
+    "DESCRIPTION": " !B! ブロック を得る、 特定支援 の数だけに、 ブロック +3。"
+  },
+  "ExternalAssistance": {
+    "NAME": "外援",
+    "DESCRIPTION": " !D! 枚のランダムカードを山札に加入し, !M! 枚カードを引く。ランダムカードの数は コール 数の半分＋１。"
+  },
+  "Wheatmeal": {
+    "NAME": "小麦粉",
+    "DESCRIPTION": " 緩衝 !M! を得る、カードを1枚引く。"
+  },
+  "ReactiveBlock": {
+    "NAME": "飛びナイフ",
+    "DESCRIPTION": "斬撃系 NL 保留 NL !D! ダメージを与える、このカードをプレーする時、複製を NL 手札に加える。"
+  },
+    "Explore":{
+    "NAME":"探索",
+    "DESCRIPTION": "ランダム NL  カードを2枚引く； [E] を得る； NL ランダム支援を得る。",
+    "UPGRADE_DESCRIPTION": "ランダム2 NL  カードを2枚引く； [E] を得る； ランダム支援を得る"
+  },
+    "HNSNoSupport":{
+    "NAME":"HNS的支援",
+    "DESCRIPTION": " hns支援 を得る、 コール 1を得る。"
+  },
+    "FuryCutter":{
+    "NAME":"バランス崩らせ",
+    "DESCRIPTION": " 斬撃系 カードをプレーすると、敵は !M! ダメージを受ける。"
+  },
+    "KyuBanCha":{
+    "NAME":"九番茶",
+    "DESCRIPTION": "!B! ブロック を得る、ランダムなポーション NL を1個入手する NL 廃棄 される"
+  },
+    "WirelessCalling":{
+    "NAME":"無線電",
+    "DESCRIPTION": "毎ターン コール 数+ !M! 。"
+  },
+    "Reforming":{
+    "NAME":"リフォーミング",
+    "DESCRIPTION": "!B! ブロック コール １を得る 。"
+  },
+    "gaba":{
+    "NAME":"GABA物理",
+    "DESCRIPTION": "0から !B! ブロック を得る。"
+  },
+    "Sisters":{
+    "NAME":"姉妹",
+    "DESCRIPTION": " diyusi支援 或は siyudi支援 を得る。 或は !M! コール を消費し、両方を得る。"
+  },
+    "USE":{
+    "NAME":"使用",
+    "DESCRIPTION": " コール を消費し効果を発動させる。"
+  },
+    "DontUse":{
+    "NAME":"使用しない",
+    "DESCRIPTION": " コール を消費しない。"
+  },
+    "Milke":{
+    "NAME":"牛乳",
+    "DESCRIPTION": "次のターンでDEBUFF免除、 コール を !M! 得る。"
+  },
+    "Jakenyoru":{
+    "NAME":"邪剣「夜」·逝魔衝音",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える、敵は 流血 がある場合、大量なデバフを与える。"
+  },
+    "Accuration":{
+    "NAME":"アキュレーション",
+    "DESCRIPTION": "射撃系 NL 射撃系 ダメージ #b30% アップ、 コール を !M! 得る。"
+  },
+    "TwoFriends":{
+    "NAME":"親友二名",
+    "DESCRIPTION": " mdcn支援 と diyusi支援 を得る。"
+  },
+    "DIYUSI_DS":{
+    "NAME":"DIYUSI",
+    "DESCRIPTION": " diyusi支援 を得る。"
+  },
+    "SIYUDI_DS":{
+    "NAME":"SIYUDI",
+    "DESCRIPTION": " siyudi支援 を得る。"
+  },
+    "HNS_DS":{
+    "NAME":"HNS",
+    "DESCRIPTION": " hns支援 を得る。"
+  },
+    "ICG_DS":{
+    "NAME":"ICG",
+    "DESCRIPTION": " icg支援 を得る。"
+  },
+    "RMA_DS":{
+    "NAME":"RMA",
+    "DESCRIPTION": " rma支援 を得る。"
+  },
+    "MDCN_DS":{
+    "NAME":"MDCN",
+    "DESCRIPTION": " mdcn支援 を得る。"
+  },
+    "SZ_DS":{
+    "NAME":"SZ",
+    "DESCRIPTION": " sz支援 を得る。"
+  },
+    "SIK_DS":{
+    "NAME":"SIK",
+    "DESCRIPTION": " sik支援 を得る。"
+  },
+    "Lightning":{
+    "NAME":"雷",
+    "DESCRIPTION": "毎ターンランダムな敵に #b14 ダメージを与える。"
+  },
+    "Fire_SI":{
+    "NAME":"炎上",
+    "DESCRIPTION": "毎ターン全ての敵に #b6 ダメージを与え、 火傷 ２を負わせる。"
+  },
+    "RadioactiveSubstance":{
+    "NAME":"放射性物質",
+    "DESCRIPTION": "毎ターンランダムな敵に大量なデバフを与える。"
+  },
+    "Corrosivity":{
+    "NAME":"生物学有害",
+    "DESCRIPTION": "全ての敵にデバフの数を倍増。"
+  },
+    "AttentionToFallingObjects":{
+    "NAME":"落下物注意",
+    "DESCRIPTION": "敵全体で敵のHPが ３０ NL 以下の場合、 NL 敵のHPを0にする。"
+  },
+    "Laser":{
+    "NAME":"レーザー",
+    "DESCRIPTION": "ランダムな敵に４２ダメージを与える。"
+  },
+    "MotorVehicleAttention":{
+    "NAME":"自動車注意",
+    "DESCRIPTION": "次に2回受けるダメージを防ぐ。"
+  },
+    "CyclingByBike":{
+    "NAME":"自転車",
+    "DESCRIPTION": "毎ターンカードを2枚引く。"
+  },
+    "KingdomOfWalkers":{
+    "NAME":"歩行者天国",
+    "DESCRIPTION": "毎ターンブロックを #b8 得る。"
+  },
+    "RPG":{
+    "NAME":"RPG",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える、 火傷 !M! を与える。"
+  },
+    "Replenishment":{
+    "NAME":"补给",
+    "DESCRIPTION": "カードを1枚引く、 コールを !M! 得る。"
+  },
+    "QuickCall":{
+    "NAME":"臨時コール",
+    "DESCRIPTION": "コール を４得る 、次の次のターンで失われる。 廃棄 される。",
+    "UPGRADE_DESCRIPTION": "天賦 NL コール を４得る 、次の次のターンで失われる。 廃棄 される。"
+  },
+    "BrakingArmor":{
+    "NAME":"ブレーキ装甲",
+    "DESCRIPTION": "1ターン毎にコール数のブロックを獲得する。",
+    "UPGRADE_DESCRIPTION": "1ターン毎にコール数のブロックを獲得する、 NL !B! ブロック を得る。"
+  },
+    "RandomCall":{
+    "NAME":"特定コール",
+    "DESCRIPTION": "コール を !M! 消費し 、三種のランダムな支援から一種を選ぶ。 NL 廃棄 される",
+    "EXTENDED_DESCRIPTION": [
+	"支援が足りない。",
+	""
+	]
+  },
+    "SupportFire":{
+    "NAME":"支援射击",
+    "DESCRIPTION": "射撃系 NL コール をX消費し 、 NL 敵全体に !D! ダメージをX＋ !M! 回与える。",
+    "EXTENDED_DESCRIPTION": [
+	"支援が足りない。",
+	""
+	]
+  },
+    "Catapult":{
+    "NAME":"カタパルト",
+    "DESCRIPTION": "射撃系 NL コール を１消費し 、 NL ランダムな敵に !D! ダメージを与える !M! 回。",
+    "EXTENDED_DESCRIPTION": [
+	"支援が足りない。",
+	""
+	]
+  },
+    "SwordSweep":{
+    "NAME":"撃ち走る",
+    "DESCRIPTION": "斬撃系 NL 射撃系 NL コール を１消費し、 NL 敵全体に !D! ダメージを与える。",
+    "EXTENDED_DESCRIPTION": [
+	"支援が足りない。",
+	""
+	]
+  },
+    "Doubleslain":{
+    "NAME":"ダブルアタック",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを2回与える。"
+  },
+    "Combo":{
+    "NAME":"連続攻撃",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを2回与える、 NL このターンに前のカードを出したのは 斬撃系 の場合、カードを1枚引く； 射撃系 の場合、 [E] を得る"
+  },
+    "CallOfGunfire":{
+    "NAME":"枪声呼叫",
+    "DESCRIPTION": "2枚 射撃系 カードを出すごとに !M! 層コールを獲得する。"
+  },
+    "ThroughShooting":{
+    "NAME":"貫通射撃",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える、 ブロック 無視。"
+  },
+    "ConfusingCombatants":{
+    "NAME":"乱闘",
+    "DESCRIPTION": "射撃系  NL ランダムな敵に !D! ダメージを与える !B! 回、 NL 特定支援 のあるだけに、回数増加。"
+  },
+    "WarOfDADDY":{
+    "NAME":"War Of DADDY",
+    "DESCRIPTION": "ブロック を４得る、 NL その複製が山札に加え NL られる。"
+  },
+    "Assault":{
+    "NAME":"突撃",
+    "DESCRIPTION": "斬撃系 NL 手札を1枚 廃棄 する、敵全体に !D! + コール 数のダメージを与える。"
+  },
+    "MultipleCalls":{
+    "NAME":"マティコール",
+    "DESCRIPTION": " コール を得る度に、カードを1枚引く。"
+  },
+    "BarrierProtection":{
+    "NAME":"防壁防護",
+    "DESCRIPTION": " コール を２消費し 、!B! ブロック を得る。",
+    "EXTENDED_DESCRIPTION": [
+	"コールが足りない。",
+	""
+	]
+  },
+    "inmhito_c":{
+    "NAME":"淫梦之一太刀",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える。 NL  !M! コールあれば、消費しカードを引くことが可能、カード数は敵デバフの数。"
+  },
+    "Dodge":{
+    "NAME":"ドッジ",
+    "DESCRIPTION": "!B! ブロック を得る、カードを1枚引く。"
+  },
+    "Ijiritaosu":{
+    "NAME":"いじり倒す",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える、 !M! 以上のダメージを与えたら、 sz支援 を得る。"
+  },
+    "Xuli":{
+    "NAME":"力溜め",
+    "DESCRIPTION": "次の 斬撃系 ダメージ !M! アップ、このカードで 連続攻撃 を失わない。"
+  },
+    "Haisuinojin":{
+    "NAME":"背水の陣",
+    "DESCRIPTION": "カードを !M! 枚引く、コールがない場合は、 !B! 枚を引く。",
+    "UPGRADE_DESCRIPTION": "天賦 NL カードを !M! 枚引く、コールがない場合は、 !B! 枚を引く。"
+  },
+    "Endurance":{
+    "NAME":"妖精霊力",
+    "DESCRIPTION": " [E] を得る,  !M! コール を獲得し、使う度に、獲得の量が１増加する。"
+  },
+    "FuSiChao":{
+    "NAME":"不死鳥",
+    "DESCRIPTION": "HPを NL !M! 回復する、 knn支援 を得る。"
+  },
+    "GoIsDead":{
+    "NAME":"Go Is Dead",
+    "DESCRIPTION": "全ての 特定支援 を失い、一種を失うだけに、敵に最大HPの !M! %のダメージを与える NL 廃棄 される。"
+  },
+    "Thump":{
+    "NAME":"強打",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える、 流血 !M! を与える。"
+  },
+    "SuKiARi":{
+    "NAME":"隙あり",
+    "DESCRIPTION": "射撃系 NL !D! ダメージを与える、敵が弱体化の場合、 流血 !M! を与える。"
+  },
+    "BoShinSenSo":{
+    "NAME":"戊辰戦争",
+    "DESCRIPTION": "!B! ブロック を得る、このターンに出すスキルカードの数を2倍金属化を得る。 NL 廃棄 される"
+  },
+    "OffSide":{
+    "NAME":"OffSide",
+    "DESCRIPTION": "全ての コール を捨て、カードを !M! 枚引く、そのコール数の 筋力 を得し、次のターンで失う。 NL 廃棄 される。",
+	"UPGRADE_DESCRIPTION": "全ての コール を捨て、カードを !M! 枚引く、そのコール数の 筋力 を得し、次のターンで失う。"
+  },
+    "Converging":{
+    "NAME":"連携",
+    "DESCRIPTION": " diyusi支援 を消費し、 NL !B! ブロック を得る、 NL 標識支援を !M! 種から選ぶ NL 廃棄 される。",
+    "EXTENDED_DESCRIPTION": [
+	" diyusi支援がない。",
+	""
+	]
+  },
+    "HazardSign":{
+    "NAME":"ハザードシンプル",
+    "DESCRIPTION": " siyudi支援 を消費し NL ハザードシンプルを !M! 種選ぶ。",
+    "EXTENDED_DESCRIPTION": [
+	"siyudi支援がない。",
+	""
+	]
+  },
+    "Deathmatch":{
+    "NAME":"死闘",
+    "DESCRIPTION": " diyusi支援 と siyudi支援 がある場合のみ使用可能。 NL このターン終了後に NL 追加で1ターン NL 続けて行動する。 NL 廃棄 される",
+	"UPGRADE_DESCRIPTION": " diyusi支援 と siyudi支援 がある場合のみ使用可能。 NL このターン終了後に NL 追加で1ターン NL 続けて行動する。",
+    "EXTENDED_DESCRIPTION": [
+	"diyusi支援 或は siyudi支援がない。",
+	""
+	]
+  },
+    "Sharpness":{
+    "NAME":"シャープソード",
+    "DESCRIPTION": "全ての 斬撃系 ダメージが20%の確率で 流血 を与える。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 全ての 斬撃系 ダメージが20%の確率で 流血 を与える。"
+  },
+    "Snipe":{
+    "NAME":"狙撃",
+    "DESCRIPTION": "射撃系 NL コール を !M! 消費し、!D! ダメージを与える。",
+    "EXTENDED_DESCRIPTION": [
+	"支援が足りない。",
+	""
+	]
+  },
+    "Completed":{
+    "NAME":"任務達成",
+    "DESCRIPTION": " diyusi支援 がある場合のみ使用可能、 コール を !M! 得る、カードを2枚引く NL 廃棄 される。",
+    "EXTENDED_DESCRIPTION": [
+	" diyusi支援 がない。",
+	""
+	]
+  },
+    "Intercept":{
+    "NAME":"迎え撃つ",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える、 NL 対象の敵がアタック NL を予定している場合、!B! ブロック を得る。"
+  },
+    "HighAndDry":{
+    "NAME":"孤立無援",
+    "DESCRIPTION": "!B! ブロック を得る、 コール 数が３以下の場合、 [E] を得る、カードを1枚引く"
+  },
+    "Quest":{
+    "NAME":"エクスプロー",
+    "DESCRIPTION": "毎ターン コール を !M! 消費し 、ランダムな 親友支援 を選ぶ。"
+  },
+  "SlashOfKatana": {
+    "NAME": "刀抜一閃",
+    "DESCRIPTION": "斬撃系 NL !D! ダメージを与える。 NL これがこのターンの最初の攻撃カードであればカードを1枚引く。",
+    "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "EXTENDED_DESCRIPTION": [
+      " NL （最後使った攻撃カード : ",
+      " ）。",
+      " NL （まだ攻撃カード使用していない。）"
+    ]
+  }
+}
